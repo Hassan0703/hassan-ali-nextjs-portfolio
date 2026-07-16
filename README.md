@@ -153,7 +153,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view it.
+Open [https://hassan-ali-nextjs-portfolio.vercel.app/](https://hassan-ali-nextjs-portfolio.vercel.app/) to view the live site.
 
 ---
 
