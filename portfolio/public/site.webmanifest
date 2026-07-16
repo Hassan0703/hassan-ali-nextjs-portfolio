@@ -1,0 +1,15 @@
+{
+  "name": "Hassan Ali | Frappe / ERPNext Architect",
+  "short_name": "Hassan Ali",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0806",
+  "theme_color": "#C9A44C",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "36x36",
+      "type": "image/svg+xml"
+    }
+  ]
+}
