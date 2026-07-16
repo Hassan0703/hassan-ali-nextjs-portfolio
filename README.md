@@ -1,8 +1,6 @@
+# Hassan Ali — Frappe/ERPNext Architect & Full-Stack Developer Portfolio
+
 <div align="center">
-
-# 🚀 Hassan Ali — Frappe/ERPNext Architect & Full-Stack Developer Portfolio
-
-### A blazing-fast, fully responsive, SEO-optimized personal portfolio built with Next.js 15, React 19 & Tailwind CSS 4
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-149ECA?style=for-the-badge&logo=react)](https://react.dev/)
@@ -24,25 +22,25 @@
 ## 📸 Preview
 
 <div align="center">
-  <img src="./portfolio/public/screenshots/hero.png" alt="Hassan Ali Next.js Portfolio — Desktop Hero Section Screenshot" width="90%" />
+  <img src="https://raw.githubusercontent.com/Hassan0703/hassan-ali-nextjs-portfolio/main/portfolio/public/screenshots/hero.png" alt="Hassan Ali Next.js Portfolio — Desktop Hero Section Screenshot" width="90%" />
   <p><em>Hero Section — Desktop View</em></p>
 </div>
 
 <table>
   <tr>
-    <td width="50%"><img src="./portfolio/public/screenshots/technology_radar.png" alt="Portfolio technology radar section" width="100%"/><p align="center"><em>Technology Radar Section</em></p></td>
-    <td width="50%"><img src="./portfolio/public/screenshots/architecture_section.png" alt="Portfolio architecture section" width="100%"/><p align="center"><em>Architecture Section</em></p></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Hassan0703/hassan-ali-nextjs-portfolio/main/portfolio/public/screenshots/technology_radar.png" alt="Portfolio technology radar section" width="100%"/><p align="center"><em>Technology Radar Section</em></p></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Hassan0703/hassan-ali-nextjs-portfolio/main/portfolio/public/screenshots/architecture_section.png" alt="Portfolio architecture section" width="100%"/><p align="center"><em>Architecture Section</em></p></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./portfolio/public/screenshots/journery_milestone_section.png" alt="Portfolio journey milestones section" width="100%"/><p align="center"><em>Journey Milestones</em></p></td>
-    <td width="50%"><img src="./portfolio/public/screenshots/services_section.png" alt="Portfolio services section" width="100%"/><p align="center"><em>Services Section</em></p></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Hassan0703/hassan-ali-nextjs-portfolio/main/portfolio/public/screenshots/journery_milestone_section.png" alt="Portfolio journey milestones section" width="100%"/><p align="center"><em>Journey Milestones</em></p></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Hassan0703/hassan-ali-nextjs-portfolio/main/portfolio/public/screenshots/services_section.png" alt="Portfolio services section" width="100%"/><p align="center"><em>Services Section</em></p></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./portfolio/public/screenshots/enterprise_capabilities.png" alt="Portfolio enterprise capabilities section" width="100%"/><p align="center"><em>Enterprise Capabilities</em></p></td>
-    <td width="50%"><img src="./portfolio/public/screenshots/get_in_touch.png" alt="Portfolio contact section" width="100%"/><p align="center"><em>Get In Touch Section</em></p></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Hassan0703/hassan-ali-nextjs-portfolio/main/portfolio/public/screenshots/enterprise_capabilities.png" alt="Portfolio enterprise capabilities section" width="100%"/><p align="center"><em>Enterprise Capabilities</em></p></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Hassan0703/hassan-ali-nextjs-portfolio/main/portfolio/public/screenshots/get_in_touch.png" alt="Portfolio contact section" width="100%"/><p align="center"><em>Get In Touch Section</em></p></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./portfolio/public/screenshots/git_contribution.png" alt="Portfolio GitHub contributions section" width="100%"/><p align="center"><em>GitHub Contributions</em></p></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Hassan0703/hassan-ali-nextjs-portfolio/main/portfolio/public/screenshots/git_contribution.png" alt="Portfolio GitHub contributions section" width="100%"/><p align="center"><em>GitHub Contributions</em></p></td>
   </tr>
 </table>
 
