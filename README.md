@@ -13,7 +13,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Hassan0703/hassan-ali-nextjs-portfolio?style=social)](https://github.com/Hassan0703/hassan-ali-nextjs-portfolio/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/Hassan0703/hassan-ali-nextjs-portfolio)](https://github.com/Hassan0703/hassan-ali-nextjs-portfolio/issues)
 
-[**🌐 Live Site**](https://hassanali.dev) · [**🐛 Report Bug**](https://github.com/Hassan0703/hassan-ali-nextjs-portfolio/issues/new?labels=bug) · [**✨ Request Feature**](https://github.com/Hassan0703/hassan-ali-nextjs-portfolio/issues/new?labels=enhancement)
+[**🌐 Live Site**](https://hassan-ali-nextjs-portfolio.vercel.app/) · [**🐛 Report Bug**](https://github.com/Hassan0703/hassan-ali-nextjs-portfolio/issues/new?labels=bug) · [**✨ Request Feature**](https://github.com/Hassan0703/hassan-ali-nextjs-portfolio/issues/new?labels=enhancement)
 
 </div>
 
@@ -56,9 +56,7 @@
 - [Getting Started](#-getting-started)
 - [Project Structure](#-project-structure)
 - [Available Scripts](#-available-scripts)
-- [Deployment](#-deployment)
 - [SEO Implementation](#-seo-implementation)
-- [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Contact](#-contact)
@@ -70,12 +68,7 @@
 
 This is the source code for my personal developer portfolio — a modern, minimal, and lightning-fast website built to showcase my projects, skills, and professional experience as a **Frappe/ERPNext Architect & Full-Stack Engineer** based in Lahore, Pakistan.
 
-It's built with performance and discoverability as first-class citizens: a fully static Next.js App Router export, semantic HTML, a complete Metadata/Open Graph/Twitter Card setup, and a dynamic sitemap — with a 100/100 target Lighthouse score across Performance, Accessibility, Best Practices, and SEO.
-
-**Why this repo exists:**
-- 📌 A living showcase of my real-world projects and skills
-- 📌 A reference implementation of a production-grade, SEO-optimized Next.js site
-- 📌 Open-sourced so other developers can learn from or fork the structure
+Built with performance and discoverability as first-class citizens: a fully static Next.js App Router export, semantic HTML, a complete Metadata/Open Graph/Twitter Card setup, and a dynamic sitemap — targeting a 100/100 Lighthouse score across Performance, Accessibility, Best Practices, and SEO.
 
 ---
 
@@ -134,8 +127,6 @@ Full case studies live at `/project/[slug]` for each entry.
 | ![Performance](https://img.shields.io/badge/100-brightgreen) | ![Accessibility](https://img.shields.io/badge/100-brightgreen) | ![Best Practices](https://img.shields.io/badge/100-brightgreen) | ![SEO](https://img.shields.io/badge/100-brightgreen) |
 
 </div>
-
-> Run `npx unlighthouse --site your-live-url.vercel.app` or check via Chrome DevTools → Lighthouse, then update these badges with your real scores.
 
 ---
 
@@ -216,23 +207,6 @@ hassan-ali-nextjs-portfolio/
 
 ---
 
-## ☁️ Deployment
-
-This project builds as a fully **static export** (`output: "export"` in `next.config.ts`), so it can be deployed anywhere that serves static files:
-
-**Vercel (recommended):**
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Hassan0703/hassan-ali-nextjs-portfolio)
-
-**GitHub Pages / Netlify / any static host:**
-```bash
-npm run build
-# Static site is generated in the /out directory — deploy that folder
-```
-
-Currently live at **[hassanali.dev](https://hassanali.dev)**.
-
----
-
 ## 🔍 SEO Implementation
 
 This project takes SEO seriously. Currently implemented:
@@ -243,22 +217,6 @@ This project takes SEO seriously. Currently implemented:
 - ✅ Auto-generated `sitemap.xml` (`sitemap.ts`) and `robots.txt` (`robots.ts`)
 - ✅ Semantic HTML with a skip-to-content link for accessibility & crawlability
 - ✅ `next/font` with `display: swap` for zero font-related layout shift
-
-**Planned / in progress** — see [`SEO-GUIDE.md`](./SEO-GUIDE.md) for the full audit and exact fixes:
-- ⬜ JSON-LD structured data (`Person` schema)
-- ⬜ `og-image.png` (currently referenced in metadata but missing from `/public`)
-- ⬜ Per-route metadata verification across all pages
-
----
-
-## 🗺 Roadmap
-
-- [ ] Add blog section with MDX support
-- [ ] Add multi-language support (i18n)
-- [ ] Add CMS integration (Sanity/Contentful) for project data
-- [ ] Add unit + E2E tests (Jest + Playwright)
-
-See [open issues](https://github.com/Hassan0703/hassan-ali-nextjs-portfolio/issues) for a full list of proposed features.
 
 ---
 
